@@ -28,6 +28,12 @@ with open("portfolio.json", "r", encoding="utf-8") as f:
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 
+# ✅ Root route for testing
+@app.route("/", methods=["GET"])
+def home():
+    return "✅ Sandip Portfolio Chatbot Backend is Live!"
+
+
 @app.route("/chat", methods=["POST"])
 def chat():
     user_message = request.json.get("message")
@@ -54,5 +60,4 @@ def chat():
 
 
 if __name__ == "__main__":
-    app.run(port=5000, debug=True)
-
+    app.run(host="0.0.0.0", port=5000, debug=True)
