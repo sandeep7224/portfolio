@@ -21,7 +21,7 @@ if not GEMINI_API_KEY:
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Load portfolio.json (make relative path for deployment)
-with open(r"C:\Users\Dell\Desktop\chatbot_portfolio\sandip_portfolio\portfolio.json", "r", encoding="utf-8") as f:
+with open("portfolio.json", "r", encoding="utf-8") as f:
     portfolio_data = json.load(f)
 
 # Create a model instance
@@ -55,3 +55,4 @@ def chat():
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)
+
