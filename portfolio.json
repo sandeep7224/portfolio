@@ -1,0 +1,112 @@
+{
+  "name": "Sandeep Gupta",
+  "title": "AI/ML Engineer",
+  "about": "Final year B.Tech Computer Science student with hands-on experience in AI/ML, passionate about building intelligent applications and solving real-world problems using data-driven solutions.",
+  
+  "experience": [
+    {
+      "role": "AI/ML Intern",
+      "company": "bluCursor Infotech Pvt. Ltd.",
+      "duration": "May 2024 – August 2024",
+      "experience": "4 Months",
+      "responsibilities": [
+      "Undergoing training in Neural Network techniques and data filtering as part of an AI development internship",
+      "Gaining hands-on experience with Python libraries including NumPy, Pandas, and Matplotlib for data analysis and visualization",
+      "Performed data cleaning, preprocessing, and feature engineering using Python libraries such as Pandas, NumPy, and Scikit-learn",
+      "Collaborated with a team to present findings, visualize insights, and suggest improvements for future iterations."
+
+      ]
+    }
+  ],
+  
+  "skills": {
+    "languages": ["Python", "C++", "SQL", "C", "HTML", "CSS"],
+    "ml_frameworks": ["TensorFlow", "Keras", "PyTorch", "Scikit-Learn", "numpy", "Pandas", "Matplotlib", "OpenCV"],
+    "tools": ["OpenCV", "Flask", "Streamlit", "Power BI", "Git/GitHub"],
+    "concepts": ["Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing", "Data Visualization"]
+  },
+
+  "soft_skills": [
+    "Problem Solving",
+    "Team Collaboration",
+    "Adaptability",
+    "Critical Thinking",
+    "Effective Communication"
+  ],
+
+  "certifications": [
+    {
+      "name": "Introduction to Machine Learning ",
+      "provider": "Kaggle ",
+      "year": " January 2025"
+    },
+    {
+      "name": "Git & Github",
+      "provider": "Geekster",
+      "year": " August 2024"
+    },
+    {
+      "name": "Basic of Python",
+      "provider": "Infosys Springboard",
+      "year": "June 2023"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institute": "Shivajirao Kadam institute of Technology and Management, Indore",
+      "year": "2022 – 2026",
+      "score": "CGPA: 7.38"
+    },
+    {
+      "degree": "Senior Secondary (XII)",
+      "School": "St.Mary Senior Secondary School, Barwani",
+      "board": "CBSE",
+      "year": "2022",
+      "score": "79.80%"
+    },
+    {
+      "degree": "Secondary (X)",
+       "School": "St.Augustine English Medium School, Pansemal",
+      "board": "MP Board",
+      "year": "2020",
+      "score": "92.66%"
+    }
+  ],
+  
+  "projects": [
+    {
+      "name": "Face Recognition Attendance System",
+      "description": "Developed a face recognition-based attendance system using OpenCV and Python. Automated student attendance marking with real-time camera feed.",
+      "technologies": ["Python", "OpenCV", "Face Recognition", "Tkinter"],
+      "github": "https://github.com/sandeep-face-recognition"
+    },
+    {
+      "name": "MediCare.AI",
+      "description": "An AI-powered healthcare assistant that predicts diseases based on symptoms and recommends precautions.",
+      "technologies": ["Python", "Machine Learning", "Flask", "Scikit-Learn"],
+      "github": "https://github.com/sandeep-medicare-ai"
+    },
+    {
+      "name": "Object Detection Web App",
+      "description": "Implemented YOLO model for object detection integrated with a Streamlit web app.",
+      "technologies": ["Python", "YOLO", "Streamlit"],
+      "github": "https://github.com/sandeep-object-detection"
+    },
+    {
+      "name": "Language Hub",
+      "description": "A multilingual web app for text-to-speech and speech-to-text translation using Flask.",
+      "technologies": ["Python", "Flask", "Google TTS/STT APIs"],
+      "github": "https://github.com/sandeep-language-hub"
+    }
+  ],
+  
+  "contact": {
+    "email": "sandeepgupta7224@gmail.com",
+    "phone": "+91-7224057957",
+    "linkedin": "https://www.linkedin.com/in/sandeep-gupta-b74956294/",
+    "github": "https://github.com/sandeep7224",
+    "portfolio": "https://sandeep-portfolio-2kuf.onrender.com"
+  }
+}
